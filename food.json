@@ -1,11 +1,11 @@
 {
     "status" : "ok", "result" : [
-    {"id":"1","gambar":"waffle.jpg"},
-    {"id":"2","gambar":"sate.jpeg"},
-    {"id":"3","gambar":"rendang.jpg"},
-    {"id":"4","gambar":"nasgor.jpg"},
-    {"id":"5","gambar":"mie.jpg"},
-    {"id":"6","gambar":"kentang.jpg"},
-    {"id":"7","gambar":"bakso.jpg"}
+    {"id":"1","gambar":"waffle.jpg","nama":"waffle"},
+    {"id":"2","gambar":"sate.jpeg","nama":"sate"},
+    {"id":"3","gambar":"rendang.jpg","nama":"rendang"},
+    {"id":"4","gambar":"nasgor.jpg","nama":"nasgor"},
+    {"id":"5","gambar":"mie.jpg","nama":"mie"},
+    {"id":"6","gambar":"kentang.jpg","nama":"kentang goreng"},
+    {"id":"7","gambar":"bakso.jpg","nama":"bakso"}
     ]
 }
