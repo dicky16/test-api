@@ -7,6 +7,7 @@
     {"id":"5","gambar":"mie.jpg","nama":"mie"},
     {"id":"6","gambar":"kentang.jpg","nama":"kentang goreng"},
     {"id":"7","gambar":"bakso.jpg","nama":"bakso"},
-    {"id":"8","gambar":"bebek.jpg","nama":"bebek goreng"}
+    {"id":"8","gambar":"bebek.jpg","nama":"bebek goreng"},
+    {"id":"9","gambar":"geprek.jpg","nama":"Ayam Geprek"}
     ]
 }
