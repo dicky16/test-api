@@ -1,4 +1,5 @@
 [
+    [ "status" : "ok", "result" :
     {"id":"1","gambar":"waffle.jpg"},
     {"id":"2","gambar":"sate.jpeg"},
     {"id":"3","gambar":"rendang.jpg"},
@@ -6,4 +7,5 @@
     {"id":"5","gambar":"mie.jpg"},
     {"id":"6","gambar":"kentang.jpg"},
     {"id":"7","gambar":"bakso.jpg"}
+    ]
 ]
